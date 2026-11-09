@@ -18,6 +18,18 @@ absolute zero to interview ready, in हिंदी with an English audio track
 | 5 | Arrays: the kirana shelf | [05-arrays](05-arrays) |
 | 6 | Strings are arrays of letters | [06-strings](06-strings) (note: C++ strings can change, Python and Java strings can't) |
 | 7 | Mixed bag #1 | [07-mixed-bag-1](07-mixed-bag-1) |
+| 8 | Hashing: two sum in one pass | [08-hashing](08-hashing) |
+| 9 | Two pointers, part 1 | [09-two-pointers-1](09-two-pointers-1) |
+| 10 | Two pointers, part 2: your turn | [10-two-pointers-2](10-two-pointers-2) |
+| 11 | Sliding window, fixed size | [11-sliding-window-fixed](11-sliding-window-fixed) |
+| 12 | Sliding window, grow and shrink | [12-sliding-window-grow](12-sliding-window-grow) |
+| 13 | Prefix sums | [13-prefix-sums](13-prefix-sums) |
+| 14 | Binary search on the answer | [14-binary-search-answer](14-binary-search-answer) |
+| 15 | Sorting: when to sort first | [15-sort-first](15-sort-first) |
+| 16 | Mixed bag #2 | [16-mixed-bag-2](16-mixed-bag-2) |
+| 17 | The call stack | [17-call-stack](17-call-stack) |
+| 18 | Recursion 1: copies, not loops | [18-recursion-copies](18-recursion-copies) |
+| 19 | Recursion 2: base case first | [19-base-case](19-base-case) |
 
 Run:
 
