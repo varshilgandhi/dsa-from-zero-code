@@ -14,6 +14,10 @@ absolute zero to interview ready, in हिंदी with an English audio track
 | 1 | Your first algorithm: binary search on 8 cards | [01-binary-search](01-binary-search) |
 | 2 | Why you quit last time: the 3 traps | no code, start the [tracker](tracker/TRACKER.md) |
 | 3 | Boxes and arrows: the `b = a` trap | [03-boxes-and-arrows](03-boxes-and-arrows) (note: C++ copies on `b = a`, Python and Java don't) |
+| 4 | Counting steps: Big O without maths | [04-big-o](04-big-o) |
+| 5 | Arrays: the kirana shelf | [05-arrays](05-arrays) |
+| 6 | Strings are arrays of letters | [06-strings](06-strings) (note: C++ strings can change, Python and Java strings can't) |
+| 7 | Mixed bag #1 | [07-mixed-bag-1](07-mixed-bag-1) |
 
 Run:
 
